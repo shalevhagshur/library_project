@@ -1,0 +1,11 @@
+
+    {
+        "bookname": "How to Waga Baga",
+        "author": "Waga",
+        "production_year": 2023,
+        "agelimit": 18,
+        "loaned": false,
+        "stock": 10,
+        "bookid": 9876543
+    }
+    

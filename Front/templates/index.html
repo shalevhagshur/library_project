@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    <section>
+        <h2>Welcome to the Library</h2>
+        <p>Hello, {{ username }}!</p>
+        <p>Explore our collection of books and manage your library activities.</p>
+        
+    </section>
+    <head>
+        <!-- Other head elements -->
+    
+        <!-- Include the registration.js script -->
+        <script src="/static/js/registration.js"></script>
+    
+        <!-- Include the login.js script -->
+        <script src="/static/js/login.js"></script>
+    </head>
+    
+{% endblock %}
